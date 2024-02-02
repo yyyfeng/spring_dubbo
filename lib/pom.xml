@@ -11,7 +11,7 @@
     <packaging>pom</packaging>
     <artifactId>lib</artifactId>
     <properties>
-        <springframework.version>5.2.0.RELEASE</springframework.version>
+        <springframework.version>5.2.22.RELEASE</springframework.version>
         <slf4j-log4j12.version>1.7.25</slf4j-log4j12.version>
     </properties>
     <dependencies>
